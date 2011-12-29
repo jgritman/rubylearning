@@ -1,1 +1,1 @@
-Excersises from [Ruby Learning](http://rubylearning.org/class/) I completed back in 2009.
+Exercises from [Ruby Learning](http://rubylearning.org/class/) I completed back in 2009.
